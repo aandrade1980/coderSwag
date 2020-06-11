@@ -1,5 +1,6 @@
-package alvus.com.coderswag
+package alvus.com.coderswag.controller
 
+import alvus.com.coderswag.R
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
